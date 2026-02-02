@@ -80,7 +80,7 @@ export const AppointmentForm = ({
           reason: values.reason!,
           status: status as Status,
           note: values.note,
-          timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+          // timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
         };
 
         const newAppointment = await createAppointment(appointment);
@@ -102,7 +102,7 @@ export const AppointmentForm = ({
             cancellationReason: values.cancellationReason,
           },
           type,
-          timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
+          // timeZone: Intl.DateTimeFormat().resolvedOptions().timeZone,
         };
 
         const updatedAppointment = await updateAppointment(appointmentToUpdate);

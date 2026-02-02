@@ -13,17 +13,21 @@
   </div>
 
   <h3 align="center">A HealthCare Management System</h3>
+<<<<<<< HEAD
 </div>
 
 
+=======
+
+</div>
+
+>>>>>>> a2acd69541615f195cac7cb99b6f4521eeb06cff
 
 ## <a name="introduction">🤖 Introduction</a>
 
 A healthcare patient management application that allows patients to easily register, book, and manage their appointments with doctors, featuring administrative tools for scheduling, confirming, and canceling appointments, along with SMS notifications, all built using Next.js.
 
-If you're getting started and need assistance or face any bugs, join our active Discord community with over **34k+** members. It's a place where people help each other out.
 
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -54,4 +58,9 @@ If you're getting started and need assistance or face any bugs, join our active 
 
 👉 **Manage and Track Application Performance Using Sentry**: The application uses Sentry to monitor and track its performance and detect any errors.
 
+<<<<<<< HEAD
 and many more, including code architecture and reusability
+=======
+
+
+>>>>>>> a2acd69541615f195cac7cb99b6f4521eeb06cff

@@ -13,7 +13,7 @@ import {
 } from "../appwrite.config";
 import { formatDateTime, parseStringify } from "../utils";
 
-export const runtime = "nodejs";
+
 
 //  CREATE APPOINTMENT
 export const createAppointment = async (

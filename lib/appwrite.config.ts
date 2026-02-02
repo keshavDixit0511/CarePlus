@@ -1,5 +1,5 @@
 import * as sdk from "node-appwrite";
-export const runtime = "nodejs";
+
 
 export const {
   NEXT_PUBLIC_ENDPOINT: ENDPOINT,

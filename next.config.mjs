@@ -12,9 +12,10 @@ export default withSentryConfig(nextConfig, {
   project: "care-pulse",
 
   silent: !process.env.CI,
+   telemetry: false,
   widenClientFileUpload: true,
   hideSourceMaps: true,
   disableLogger: true,
   automaticVercelMonitors: true,
-  telemetry: false,
+ 
 });
